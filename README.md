@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TICKETING PLATFORM #
 
 ### How do I get set up? ###
@@ -66,3 +67,7 @@ sudo -H pip install virtualenv
 ## License
 
 MIT License
+=======
+# api-backend-of-a-ticketing-platform
+This an API backend of a  ticketing platform 
+>>>>>>> 4a7f8e538c8f644b1f1633d7ffaca905e0973d3b
